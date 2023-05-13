@@ -21,3 +21,7 @@
 button {
   min-width: 80px;
 }
+
+#heading{
+  text-align: center;
+}
